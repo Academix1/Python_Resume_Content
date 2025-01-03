@@ -1,7 +1,7 @@
 # Resume Content
 
 ## **Summary**
-I’m a passionate FullStack Developer(Python) with hands-on experience in end-to-end web application projects. I enjoy building responsive UIs with React, developing robust backends using Python and Django, and tackling coding challenges on platforms like HackerRank to continuously improve my skills. Excited to bring my creativity, coding passion, and problem-solving mindset to a dynamic team.
+I’m a passionate FullStack Developer(Python) with hands-on experience in end-to-end web application projects. I enjoy building responsive UI's with React, developing robust backends using Python and Django, and tackling coding challenges on platforms like HackerRank to continuously improve my skills. Excited to bring my creativity, coding passion, and problem-solving mindset to a dynamic team.
 
 ## Skills
 

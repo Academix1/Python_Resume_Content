@@ -31,7 +31,8 @@
 1. React.js
 2. HTML
 3. CSS
-4. Redux
+4. JavaScript
+5. Redux
 
 ### API Tools
 
@@ -43,6 +44,13 @@
 
 1. H2db
 2. MongoDB
+
+### Version Controld
+1. Git
+2. Git Hub
+
+### Problem Solving
+ - Hackerrank
 
 ## Projects
 

@@ -66,7 +66,7 @@ This project involves creating a course management system with Django for the ba
 
 ### **Technologies Used**
 
-Django, Django REST Framework (DRF), React.js, Redux (state management), OpenAI API, Celery
+Django, Django REST Framework (DRF), React.js, Redux (state management), OpenAI API, Celery,axios
 
 
 

@@ -100,9 +100,5 @@ Django, Django REST Framework (DRF), React.js, Redux (state management), OpenAI 
 - **Frontend**: Ensure that users are notified about updates directly through email.
 - **Features**: Real-time email notifications based on course updates and user activities.
 
-#### **8. Frontend-Backend Communication with Axios**
-- **Backend**: Expose APIs to handle data requests between frontend and backend.
-- **Frontend**: Use Axios to handle HTTP requests and integrate with Django APIs.
-- **Features**: Seamless interaction between frontend and backend to fetch course, quiz, and user data.
 
 ---

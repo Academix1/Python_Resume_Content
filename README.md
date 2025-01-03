@@ -1,4 +1,4 @@
-# Resume Template
+# Resume Content
 
 ## Skills
 

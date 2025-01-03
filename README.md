@@ -57,7 +57,9 @@
 ### **Project 1: Course Management System (AI Integrated Project)**
 
 **Description**:  
-This full-stack project involves several sub-projects, each contributing to the overall Course Management System with Django backend and React frontend. Below are the key sub-projects:
+
+This project involves creating a course management system with Django for the backend and React for the frontend. The app includes features like user authentication, course management (CRUD operations), activity logging with MongoDB, and AI-powered quiz generation and course recommendations using OpenAI. Axios is used for seamless frontend-backend communication. The project also includes progress tracking for users and email notifications for updates. This full-stack application integrates key technologies and tools for building a modern web application.
+
 
 ### **Technologies Used**
 

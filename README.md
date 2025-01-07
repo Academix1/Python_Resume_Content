@@ -133,7 +133,11 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 # Additional Projects
 
 ### **Movie App**
-**Description**: A feature-rich movie app to explore popular movies, search by genre, and create personalized watchlists. It fetches movie data from a third-party API using Axios.  
+**Description**:
+ Developed a dynamic OTT platform with TMDB API integration to provide up-to-date movie data. Created a responsive, user
+ friendly frontend using React, displaying movie information like titles, genres, release dates, and ratings. Implemented Redux for
+ efficient state management, enhancing the app’s scalability and performance
+  
 **Technologies Used**: React.js, Redux, Axios, HTML, CSS, JavaScript
 
 ---

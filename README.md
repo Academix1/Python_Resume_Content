@@ -154,7 +154,7 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 
 ### **Personal Portfolio**
 **Description**: This project showcases a portfolio website with a focus on clean design and responsiveness. The site features sections like "About Me," "Projects," "Skills," and "Contact." Visitors can explore past projects and reach out through the contact form.  
-**Technologies Used**: HTML, CSS, JavaScript
+**Technologies Used**: HTML, CSS
 
 ---
 

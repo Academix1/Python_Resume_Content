@@ -143,7 +143,11 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 ---
 
 ### **Weather App**
-**Description**: A weather forecasting app that provides real-time updates and a 5-day weather outlook for any location.  
+**Description**: 
+ Built a real-time weather application with a responsive frontend using React, integrating a weather API for live data (temperature,
+ humidity, etc.) worldwide. Enabled users to search locations and instantly view current weather updates, with a focus on smooth
+ user experience and efficient API handling.  
+ 
 **Technologies Used**: React.js, Redux, Axios, HTML, CSS, JavaScript
 
 ---

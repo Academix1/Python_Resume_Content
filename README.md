@@ -7,11 +7,9 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 ## **Skills**
 
 ### **Programming Language**
-
 - Python
 
 ### **Frontend Technologies**
-
 1. React.js
 2. HTML
 3. CSS
@@ -19,18 +17,15 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 5. Redux
 
 ### **Backend Technologies**
-
 1. Django
 2. RESTful APIs
 3. Maven
 
 ### **Databases**
-
 1. H2db
 2. MongoDB
 
 ### **Libraries/Frameworks**
-
 1. Django
 2. Django REST Framework (DRF)
 3. Django JWT Authentication (djangorestframework-simplejwt)
@@ -43,22 +38,18 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 10. Django Email (for Notifications)
 
 ### **API Tools**
-
 1. Django REST Framework (DRF)
 2. Postman
 3. Axios
 
 ### **Version Control**
-
 1. Git
 2. GitHub
 
 ### **Problem Solving**
-
 - HackerRank
 
 ## **Projects**
-
 
 ### **Frontend (React):**
 - Managed **user authentication** with JWT tokens for secure login and session handling, ensuring efficient token validation and storage in local storage.
@@ -189,6 +180,13 @@ The application supports basic reporting functionality, allowing users to monito
 
 **Technologies Used**: Python
 
-"""
+---
 
+# Certifications
+
+- **HackerRank Certificate in Python**  
+  Awarded for proficiency in solving Python-based challenges and demonstrating problem-solving skills.
+
+- **Course Completed Certificate**  
+  Completed various courses on platforms such as Coursera and Udemy, including topics in Python, Django, React, and Full-Stack Web Development.
 

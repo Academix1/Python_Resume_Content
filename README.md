@@ -44,7 +44,7 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 3. Axios
 4. Open AI
 
-### Deployment
+### Deployment and Containerization
 1. Netlify
 2. Docker
 

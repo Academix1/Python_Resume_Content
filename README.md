@@ -59,9 +59,9 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 ### **Problem Solving**
 - HackerRank
 
-## **Projects**
 
-### **Course Management System (Full-Stack Web Application)**
+## **Course Management System (Full-Stack Web Application)**
+
 **Description:** Developed a comprehensive Course Management System with functionalities for user authentication, course management, progress tracking, and personalized course recommendations. The backend is powered by Django and Django REST Framework (DRF) for efficient API management, while the frontend utilizes React.js and Redux for a responsive, dynamic UI.
 
 ### **Frontend (React):**

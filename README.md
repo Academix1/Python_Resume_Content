@@ -8,7 +8,6 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 
 ### **Programming Language**
 - Python
-
 ### **Frontend Technologies**
 1. React.js
 2. HTML
@@ -43,6 +42,15 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 1. Django REST Framework (DRF)
 2. Postman
 3. Axios
+4. Open AI
+
+### Deployment
+1. Netlify
+2. Docker
+
+### **AI and Automation**
+1. Open AI
+2. Prompt Engineering
 
 ### **Version Control**
 1. Git

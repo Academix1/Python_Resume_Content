@@ -165,19 +165,28 @@ The app also features error handling for invalid input and ensures responsivenes
 ---
 
 ### **Personal Portfolio**
-**Description**: This project showcases a personal portfolio website built with a focus on clean design and responsiveness. It includes sections like "About Me," "Projects," "Skills," and "Contact," allowing visitors to learn more about the developer’s experience and reach out via the contact form. The website is designed to be fully responsive across different devices, making it accessible to a wide range of users.  
+**Description**:
+This project showcases a personal portfolio website built with a focus on clean design and responsiveness. 
+It includes sections like "About Me," "Projects," "Skills," and "Contact," allowing visitors to learn more about the developer’s experience and reach out via the contact form. 
+The website is designed to be fully responsive across different devices, making it accessible to a wide range of users.  
+
 **Technologies Used**: HTML, CSS
 
 ---
 
 ### **ATM Functionality**
-**Description**: Developed an ATM simulation backend application that mimics banking functionalities such as balance inquiries, deposits, withdrawals, and transaction history. The app allows users to interact with a simple command-line interface (CLI) to perform various banking operations, simulating the real-world process of ATM transactions.  
+**Description**: Developed an ATM simulation backend application that mimics banking functionalities such as balance inquiries, deposits, withdrawals, and transaction history.
+The app allows users to interact with a simple command-line interface (CLI) to perform various banking operations, simulating the real-world process of ATM transactions.  
+
 **Technologies Used**: Python
 
 ---
 
 ### **Inventory Management**
-**Description**: A Python-based inventory management application that helps track and manage stock levels. Features include adding, removing, and updating items in inventory, as well as viewing current stock levels. The application supports basic reporting functionality, allowing users to monitor inventory trends over time.  
+**Description**: A Python-based inventory management application that helps track and manage stock levels. 
+Features include adding, removing, and updating items in inventory, as well as viewing current stock levels. 
+The application supports basic reporting functionality, allowing users to monitor inventory trends over time.  
+
 **Technologies Used**: Python
 
 """

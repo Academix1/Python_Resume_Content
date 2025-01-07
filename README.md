@@ -155,7 +155,11 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 # Mini Projects
 
 ### **Calculator**
-**Description**: A functional calculator web application capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division. Designed with an intuitive UI to enhance usability and provide a smooth user experience. The app also features error handling for invalid input and ensures responsiveness across different screen sizes.  
+**Description**:
+A functional calculator web application capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
+Designed with an intuitive UI to enhance usability and provide a smooth user experience. 
+The app also features error handling for invalid input and ensures responsiveness across different screen sizes.  
+
 **Technologies Used**: HTML, CSS, JavaScript
 
 ---

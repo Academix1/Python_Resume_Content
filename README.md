@@ -19,7 +19,8 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 ### **Backend Technologies**
 1. Django
 2. RESTful APIs
-3. Maven
+3. Django Celery
+4. Django Migrations
 
 ### **Databases**
 1. H2db

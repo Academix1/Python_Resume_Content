@@ -155,26 +155,27 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 # Mini Projects
 
 ### **Calculator**
-**Description**: A functional calculator web application capable of performing basic arithmetic operations. Designed with an intuitive UI to enhance usability.  
+**Description**: A functional calculator web application capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division. Designed with an intuitive UI to enhance usability and provide a smooth user experience. The app also features error handling for invalid input and ensures responsiveness across different screen sizes.  
 **Technologies Used**: HTML, CSS, JavaScript
 
 ---
 
 ### **Personal Portfolio**
-**Description**: This project showcases a portfolio website with a focus on clean design and responsiveness. The site features sections like "About Me," "Projects," "Skills," and "Contact." Visitors can explore past projects and reach out through the contact form.  
+**Description**: This project showcases a personal portfolio website built with a focus on clean design and responsiveness. It includes sections like "About Me," "Projects," "Skills," and "Contact," allowing visitors to learn more about the developer’s experience and reach out via the contact form. The website is designed to be fully responsive across different devices, making it accessible to a wide range of users.  
 **Technologies Used**: HTML, CSS
 
 ---
 
 ### **ATM Functionality**
-**Description**: Developed an ATM simulation backend application to mimic banking functionalities such as balance inquiries, deposits, and withdrawals.  
+**Description**: Developed an ATM simulation backend application that mimics banking functionalities such as balance inquiries, deposits, withdrawals, and transaction history. The app allows users to interact with a simple command-line interface (CLI) to perform various banking operations, simulating the real-world process of ATM transactions.  
 **Technologies Used**: Python
 
 ---
 
 ### **Inventory Management**
-**Description**: A Python-based application to manage inventory with features for adding, removing, and tracking items in stock.  
+**Description**: A Python-based inventory management application that helps track and manage stock levels. Features include adding, removing, and updating items in inventory, as well as viewing current stock levels. The application supports basic reporting functionality, allowing users to monitor inventory trends over time.  
 **Technologies Used**: Python
+
 """
 
 

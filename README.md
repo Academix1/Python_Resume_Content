@@ -18,9 +18,6 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 ### **Backend Technologies**
 1. Django
 2. RESTful APIs
-3. Django Celery
-4. Django Migrations
-5. pip
 
 ### **Databases**
 1. H2db
@@ -42,7 +39,6 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 1. Django REST Framework (DRF)
 2. Postman
 3. Axios
-4. Open AI
 
 ### Deployment and Containerization
 1. Netlify
@@ -50,7 +46,8 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 
 ### **AI and Automation**
 1. Open AI
-2. Prompt Engineering
+2. Codeium
+3. Prompt Engineering
 
 ### **Version Control**
 1. Git

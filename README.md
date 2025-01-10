@@ -28,12 +28,10 @@ I’m a passionate FullStack Developer (Python) with hands-on experience in end-
 2. Django REST Framework (DRF)
 3. Django JWT Authentication (djangorestframework-simplejwt)
 4. Django Migrations
-5. Django Celery (Optional for Background Tasks)
-6. Django MongoDB Integration (with pymongo or djongo)
+6. Django DB Integration 
 7. Django Admin Panel
 8. Django CORS Headers
 9. Django Logging (for Activity Logging)
-10. Django Email (for Notifications)
 
 ### **API Tools**
 1. Django REST Framework (DRF)

@@ -58,84 +58,59 @@ I am a passionate Full-Stack Developer with hands-on experience in end-to-end we
 
 ## **Projects**
 
-### **Course Management System (Full-Stack Web Application)**
+### **Interview App (Full-Stack Web Application)**
 
-**Description:** Developed a comprehensive Course Management System with functionalities for user authentication, course management, progress tracking, and personalized course recommendations. The backend is powered by Django and Django REST Framework (DRF) for efficient API management, while the frontend utilizes React.js and Redux for a responsive, dynamic UI.
-
-#### **Frontend (React):**
-- Managed **user authentication** with JWT tokens for secure login and session handling, ensuring efficient token validation and storage in local storage.
-- Implemented **form validation algorithms** using regular expressions for fields like email, password, and course details to ensure secure and valid data submission.
-
-#### **Backend (Django):**
-- **User Authentication:** Used **JWT (JSON Web Tokens)** for secure user authentication and password encryption. Implemented secure token-based authentication with **`djangorestframework-simplejwt`** to handle user login and session management efficiently.
-- **Database Modeling:** Created relational models for courses and user progress, implementing **Foreign Key** relationships and ensuring data integrity through **Django Migrations**.
+**Description:** Developed a comprehensive **Interview App** designed to simulate real-time interview assessments. The app seamlessly integrates user authentication, dynamic question loading, voice-based responses, and automated assessment using ChatGPT, providing a smooth, unified user experience.
 
 ---
 
-### **Project 1: User Authentication Microservice**
-
 #### **Frontend (React):**
-- Managed **user authentication** flow with form validation using **regular expressions** for secure input validation (e.g., password strength, email format).
-- Stored JWT tokens in **local storage** for secure, persistent sessions.
-
-#### **Backend (Django):**
-- Used **JWT Authentication** for handling secure login sessions.
-- Implemented **password encryption** with **BCrypt** to store user credentials safely.
-- Integrated **JWT-based user authentication system** using `djangorestframework-simplejwt`, ensuring secure login and registration processes.
+- **User Authentication:** Handled secure user authentication using **JWT (JSON Web Tokens)**. Users sign in with their credentials, and their session is managed with JWT tokens stored securely in **local storage**.
+- **Dynamic Question Loading:** Interview questions are loaded dynamically from the database and presented to the user for real-time interaction.
+- **Voice Input Collection:** The app captures user responses through **voice input**, leveraging the **Web Speech API** for real-time transcription. Once transcribed, the text is sent to the backend for further processing.
+- **User Interface:** Designed a user-friendly and intuitive interface to guide the user through the interview process, including question prompts, voice input collection, and feedback display.
 
 ---
 
-### **Project 2: Course CRUD Operations Microservice**
-
-#### **Frontend (React):**
-- Implemented a dynamic **course management UI** that allows users to add, update, and delete courses. Used **arrays** to manage the list of courses on the frontend and updated the UI using **state management** via **Redux**.
-- Applied **sorting algorithms** to display the courses in chronological order, showing the latest added courses at the top.
-
 #### **Backend (Django):**
-- Developed **CRUD APIs** using Django REST Framework (DRF) to manage course data.
-- Created models for **Course** with attributes like title, description, and video URL. Implemented **RESTful APIs** to handle course creation, updating, retrieval, and deletion.
-- Optimized data retrieval and storage with **Django ORM** for seamless database interactions.
+- **User Authentication:** The backend uses **JWT Authentication** to securely handle user login sessions. Passwords are securely stored with **BCrypt** encryption for added security.
+- **Database Management:** The app stores and manages interview questions and user responses in a relational database. Using **Django ORM**, the app retrieves questions from the database, ensuring smooth data interactions.
+- **Voice Data Handling:** The backend receives transcribed text responses from the frontend, processes them, and forwards them to **ChatGPT’s API** for analysis.
+- **ChatGPT Integration:** Integrated **OpenAI's GPT API** to analyze user responses. ChatGPT evaluates the answers, providing an **assessment** on the accuracy, relevance, and quality of the responses.
+- **Assessment and Feedback:** After processing the user response, the backend generates detailed feedback based on ChatGPT's analysis. This feedback is sent back to the frontend to be displayed to the user.
 
 ---
 
-### **Project 3: Activity Logging Microservice**
+#### **Project Flow:**
+1. **User Authentication:**
+   - The user logs into the app using their credentials.
+   - JWT tokens are generated and stored in local storage for session management.
 
-#### **Frontend (React):**
-- Used **local storage** and **session management** for tracking user actions in the app (such as course views, interactions, etc.).
-- Implemented **pagination algorithms** to efficiently display past activities without overwhelming the user, retrieving activity logs in manageable chunks.
+2. **Question Management:**
+   - The app dynamically loads interview questions stored in the backend database.
+   - The user is presented with questions one at a time for answering.
 
-#### **Backend (Django):**
-- Integrated **MongoDB** for storing user activity logs and actions within the platform.
-- Used **Django MongoDB integration** to connect the Django app with MongoDB for scalable activity tracking.
-- Optimized the logging system with **indexing algorithms** to quickly retrieve and filter user activities by date or course.
+3. **Voice Input Collection:**
+   - The app captures the user’s response through the voice input feature using the Web Speech API.
+   - The transcribed response is sent to the backend for analysis.
 
----
+4. **Response Analysis and Assessment:**
+   - The backend sends the user’s transcribed response to **ChatGPT** for evaluation.
+   - ChatGPT provides an analysis of the response and generates feedback based on criteria such as accuracy, completeness, and relevance.
 
-### **Project 4: AI-Powered Quiz Generation and Course Recommendation Microservice**
-
-#### **Frontend (React):**
-- Implemented a dynamic quiz generation interface that interacts with the backend for real-time quiz generation based on course progress.
-- Managed user inputs using **hash maps** to store quiz answers and results, ensuring efficient data management and user interaction.
-
-#### **Backend (Django):**
-- Integrated **OpenAI API** for generating AI-powered quizzes based on user progress.
-- Implemented **recommendation algorithms** that analyzed user course completions and interactions to suggest relevant courses.
-- Employed **data modeling** to link user data and course details for personalized recommendations.
+5. **Feedback Display:**
+   - The frontend displays the feedback, allowing the user to review their performance and improve for future interviews.
+   - Users can track their progress over time and receive personalized tips based on past assessments.
 
 ---
 
-### **Project 5: Progress Tracking and Notifications Microservice**
-
-#### **Frontend (React):**
-- Used **arrays** to dynamically track the user’s progress in each course and display completion percentages and milestones.
-- Incorporated **state management** using **Redux** to update user progress in real-time as they interact with course materials.
-
-#### **Backend (Django):**
-- Implemented **progress tracking models** to store and update user progress data across various courses.
-- Integrated **Celery** for handling background tasks related to real-time progress tracking and **email notifications** for user progress milestones.
-- Used **Django REST Framework** for pushing progress updates and sending notifications to users based on their activities.
+#### **Key Technologies:**
+- **Frontend:** React.js, Web Speech API, JWT Authentication, Redux for state management.
+- **Backend:** Django, Django REST Framework (DRF), JWT Authentication, OpenAI ChatGPT API.
+- **Database:** Relational database (e.g., PostgreSQL or MySQL), Django ORM for database interaction.
 
 ---
+
 
 ## **Additional Projects**
 

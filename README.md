@@ -157,5 +157,3 @@ The **Interview App** is an advanced platform designed to simulate and enhance r
   Completed various courses on platforms such as Coursera and Udemy, including topics in Python, Django, React, and Full-Stack Web Development.
 
 ---
-
-This resume is now using clearer naming conventions and is ready for a Full-Stack Developer role. Let me know if you'd like to make any additional changes!

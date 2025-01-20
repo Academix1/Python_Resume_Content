@@ -1,6 +1,3 @@
-Here's an updated version of your resume with proper naming conventions and enhanced readability:
-
----
 
 # **Resume**
 
